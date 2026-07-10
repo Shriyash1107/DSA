@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shriyash1107/DSA/tree/master/0014-longest-common-prefix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shriyash1107/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shriyash1107/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shriyash1107/DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shriyash1107/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
